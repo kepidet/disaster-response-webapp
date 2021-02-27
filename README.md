@@ -72,6 +72,6 @@ To execute the app follow the instructions:
 3. Go to http://0.0.0.0:3001/
 
 
-## Licesing <a name="licensing"></a>
+## Licensing <a name="licensing"></a>
 
 Must give credit to Appen for the data. This app was completed as part of the Udacity Data Scientist Nanodegree.
