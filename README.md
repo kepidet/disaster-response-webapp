@@ -12,3 +12,6 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+[[https://github.com/kepidet/disaster-response-webapp/blob/main/prtsc/Disaster%20Response%20Project%20web%20prtsc.PNG]]
